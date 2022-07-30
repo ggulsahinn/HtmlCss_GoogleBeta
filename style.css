@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.alan1 {
+    background-color: #EEEEEE;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    width: 90%;
+    height: auto;
+}
+
+.searchtext {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+}
+
+.search {
+    background-color: white;
+    width: 25%;
+    height: 20px;
+    border-width: 1px;
+    border-style: inset;
+    border-color: rgb(118, 118, 118);
+}
+
+.buton {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+.alan2{
+    text-align: center;
+    margin: 2px auto;
+    width: 90%;
+    height: auto;
+    display: table;
+}
+
+.kutu1 {
+    background-color: hsl(174, 66%, 70%);
+    display: inline-block;
+    display:table-cell;
+    vertical-align:middle;
+}
+
+.kutu2 {
+    background-color: #70ccc2;
+    display: inline-block;
+    display:table-cell;
+    vertical-align:middle;
+}
+
+.kutu3 {
+    background-color: hsl(173, 35%, 54%);
+    display: inline-block;
+    display:table-cell;
+    vertical-align:middle;
+}
+
+.tnr13{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13px;
+}
+
+.tnr16{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+.arial13{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+.arial16{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.clear{
+    clear: both;
+}
